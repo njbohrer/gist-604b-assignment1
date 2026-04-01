@@ -17,7 +17,6 @@ def main():
 
     # Add your own message here!
     print("I enjoy solving problems with the power of location!")
-
+    print('Updated in Codespaces')
 if __name__ == "__main__":
     main()
-print('Updated in Codespaces')
