@@ -30,24 +30,24 @@ Its used by 29,500 users so its does spatial indexing well.
 
 ## Repository 2
 
-**Repository Name:**  
+**Repository Name:**  geospatial
 **Link:**  
-
+https://github.com/OCA/geospatial
 ### Purpose
 What does this project do?
-
+It provides add on support for Odoo, bringing in leaflets .js library. 
 ### Repository Structure
 What folders or files stand out?
-
+The license is under AGPL-3.0, and there are
 ### Documentation
 How helpful is the README?
-
+Not the most helpful, but exploring folders has lead me to understanding PostGIS's online runs with GeoEngine.
 ### Activity
 Is the repository actively maintained?
-
+2 months ago was the last commit.
 ### Key Observation
 One thing this project does well.
-
+Seems like a very specialized work flow that pulls in leaflet libraries for spatial application in Odoo.
 ---
 
 ## Repository 3
